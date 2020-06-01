@@ -1,0 +1,22 @@
+body
+{
+  background-color:#ffd5c0;
+  border:dotted;
+  border-width:7px;
+  border-color:#dc143c;
+  text-align:center;
+  font-family:sans-serif;
+  font-size:25px;
+  color:#dc143c;
+
+
+}
+h2{
+text-decoration:underline;
+color:#dc143c;
+font-size: 45px;
+
+}
+h1{text-decoration:underline;
+  color:#dc143c;
+ }

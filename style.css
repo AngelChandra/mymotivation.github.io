@@ -35,3 +35,16 @@ text-shadow: 2px 2px #c71585;
   .para{
     text-shadow:2px 2px #ff0000;
   }
+a{
+  margin:2px;
+  color:yellow;
+  font-size:18px;
+  text-decoration: none;
+  border: 1px dashed white;
+  padding:5px;
+background-color:#400000;
+}
+.motivate{
+  text-decoration:underline;
+  color:#f20505;
+}
